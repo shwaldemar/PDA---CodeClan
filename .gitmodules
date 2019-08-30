@@ -4,3 +4,6 @@
 [submodule "vue_sgfilms"]
 	path = vue_sgfilms
 	url = https://github.com/shwaldemar/vue_sgfilms
+[submodule "js-calculator-tests"]
+	path = js-calculator-tests
+	url = https://github.com/shwaldemar/js-calculator-tests
